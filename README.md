@@ -1,13 +1,3 @@
-<<<<<<< HEAD
-Drowsiness Detection
-This is a Python program that uses machine learning to detect when a person is getting drowsy and alert them before they fall asleep. It uses OpenCV for facial recognition and Keras/TensorFlow for the machine learning models.
-
-Installation
-Clone this repository to your local machine:
-
-git clone https://github.com/ctrl-root/Driver_drowsiness_detection-.git
-=======
-
 # Drowsiness Detection
 
 Drowsiness Detection This is a Python program that uses machine learning to detect when a person is getting drowsy and alert them before they fall asleep. It uses OpenCV for facial recognition and Keras/TensorFlow for the machine learning models.
