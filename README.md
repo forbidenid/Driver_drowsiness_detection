@@ -11,12 +11,10 @@ Install my-project with git
 ```bash
   git clone https://github.com/ctrl-root/Driver_drowsiness_detection-.git
   cd Driver_drowsiness_detection-
->>>>>>> d2719ac (README)
 
 Install the required dependencies using pip:
 
 pip install -r requirements.txt
-<<<<<<< HEAD
 Run the program:
 
 python Driver_drowsiness_detection-.py
@@ -37,7 +35,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Contact
 If you have any questions or issues with this project, please contact me at my-email@ muriithidennis340@gmail.com.# Driver_drowsiness_detection-
-=======
+
 
 Run the program
 python Driver_drowsiness_detection-.py
@@ -72,4 +70,3 @@ I'm a full stack developer...
 ## 🛠 Skills
 Javascript, HTML, CSS, python.
 
->>>>>>> d2719ac (README)
